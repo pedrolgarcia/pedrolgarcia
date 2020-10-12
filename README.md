@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/pedro-lopes-324386161/" target="_blank"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" /></a>
 
 ## Hello world
-I am Pedro Garcia, Full-Stack Developer at @SixCreative.
+I am Pedro Garcia, Full-Stack Developer at @SixCreative and graduate in Systems Analysis and Development.
 
 Enthusiast of new development technologies, innovation and good design. Passionate about changing people's lives through programming :heart_eyes:
 
